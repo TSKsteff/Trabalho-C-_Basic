@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1653942436 source:c:\users\55479\onedrive\bureau\codeblock\trabalho02º\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1657946880 source:c:\trabalho c++\univali algt c++\m2\flappybird-main\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
